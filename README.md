@@ -6,7 +6,7 @@ I'm a telecom engineer and avalanche educator who shifting career to Software De
 ***My education***: Master's degree in Computer Science (Cybernetics and Computer Networks) 2004.
 The last year (22/23) was devoted to full-time learning new programming stack and improving in Backend Development.
 
-Working at: **looking for a job**
+**Open to work**
 
 Contact: andrey.volkovitskiy@gmail.com
 
