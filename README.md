@@ -3,7 +3,7 @@
 
 I'm a telecom engineer and avalanche educator who shifted career to Software Development.
 
-***My education***: Master's degree in Computer Science (Cybernetics and Computer Networks) 2004.
+***My education***: Master's degree in Computer Science (Cybernetics and Computer Networks).
 Last year (22/23) was devoted to full-time mastering a new programming stack and improving in Backend Development.
 
 **= Open to work =**
