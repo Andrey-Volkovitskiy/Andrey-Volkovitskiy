@@ -1,4 +1,4 @@
-## Hi, I'm Andrew 👋
+## Hi, I'm Andrey 👋
 
 **AI Engineer** with a background in backend Python development. I build conversational AI
 assistants for healthcare: LLM agents, RAG, and the evaluation that shows they can be trusted.
@@ -28,7 +28,7 @@ assistants for healthcare: LLM agents, RAG, and the evaluation that shows they c
 
 **VisitDoc - an AI clinic receptionist**
 
-**[Live demo ↗](https://visitdoc.app)** (no sign-up) · **[Repository ↗](https://github.com/Andrey-Volkovitskiy/visit-doc)** · Sep–Oct 2026
+**[Live demo ↗](https://visitdoc.app)** (no sign-up) · **[Repository ↗](https://github.com/Andrey-Volkovitskiy/visit-doc#readme)** · Sep–Oct 2026
 
 A chat assistant that books, reschedules and cancels clinic appointments and answers policy/FAQ
 questions with citations. When it can't answer reliably, it hands the conversation to staff
@@ -37,7 +37,7 @@ instead of guessing.
 <p>
 <a href="https://visitdoc.app"><img src="img/visitdoc-preview.png" alt="VisitDoc live demo: the patient chat and the staff console" width="48.5%"></a>
 &nbsp;
-<a href="https://github.com/Andrey-Volkovitskiy/visit-doc"><img src="img/repo-preview.png" alt="The visit-doc repository README" width="45%"></a>
+<a href="https://github.com/Andrey-Volkovitskiy/visit-doc#readme"><img src="img/repo-preview.png" alt="The visit-doc repository README" width="45%"></a>
 </p>
 
 - **Agent:** a LangGraph flow on Claude that splits mixed-intent messages across parallel specialist nodes and merges their answers
