@@ -2,7 +2,7 @@
 
 AI Engineer with a background in backend Python development. My focus is development of conversational AI assistants for healthcare.
 
-Contact: andrey.volkovitskiy@gmail.com
+Contact: andrey.volkovitskiy@gmail.com  /  t.me/andrey_volkovitskiy
 
 ---
 ### Stack
@@ -15,4 +15,7 @@ Contact: andrey.volkovitskiy@gmail.com
 
 ---
 ### Portfolio project
-https://github.com/Andrey-Volkovitskiy/visit-doc (Sep-Oct 2026)
+**VisitDoc - AI Clinic Receptionist**  (Sep-Oct 2026)
+<img https://raw.githubusercontent.com/Andrey-Volkovitskiy/visit-doc/main/docs/img/two-panels.png>
+live demo - https://visitdoc.app/
+repository / tech description - https://github.com/Andrey-Volkovitskiy/visit-doc
