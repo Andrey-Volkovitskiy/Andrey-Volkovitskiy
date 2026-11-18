@@ -26,7 +26,7 @@ assistants for healthcare: LLM agents, RAG, and the evaluation that shows they c
 
 ### 🩺 Portfolio project
 
-**VisitDoc, an AI clinic receptionist**
+**VisitDoc - an AI clinic receptionist**
 
 **[Live demo ↗](https://visitdoc.app)** (no sign-up) · **[Repository ↗](https://github.com/Andrey-Volkovitskiy/visit-doc)** · Sep–Oct 2026
 
@@ -50,12 +50,3 @@ One-pagers: [AI engineering](https://andrey-volkovitskiy.github.io/visit-doc/por
 [Development lifecycle](https://andrey-volkovitskiy.github.io/visit-doc/portfolio-adlc.html) ·
 [Architecture](https://andrey-volkovitskiy.github.io/visit-doc/portfolio-architecture.html)
 
----
-
-### 📚 Earlier projects
-
-- [task-manager](https://github.com/Andrey-Volkovitskiy/task-manager): a Django/DRF task tracker for office teams
-- [queue-manager](https://github.com/Andrey-Volkovitskiy/queue-manager): a Django app that serves bank clients in order of arrival
-- [web-page-analyzer](https://github.com/Andrey-Volkovitskiy/web-page-analyzer): a Flask app that checks web pages for basic SEO
-
-Certificates: [Hexlet: Python Development](./Hexlet-certificate.jpg) (2023) · [Yandex: Algorithms Training 5.0](./algorithms_certificate_en.jpg) (2024, 38/40 problems)
