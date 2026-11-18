@@ -1,11 +1,11 @@
 ### About me
 
-Backend engineer passionate about Python, and practical AI applications. I enjoy building reliable services, optimizing performance, and continuously improving my engineering skills.
+AI Engineer with a background in backend Python development. My focus is development of conversational AI assistants for healthcare.
 
 Contact: andrey.volkovitskiy@gmail.com
 
 ---
-### Tech stack
+### Stack
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />     <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />     <img src="https://img.shields.io/badge/Django-0C4B33?logo=django&logoColor=white" />     
 <img src="https://img.shields.io/badge/Celery-37814A?logo=celery&logoColor=white" />     <img src="https://img.shields.io/badge/AsyncIO-444444?logo=python&logoColor=white" />  
 <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" />     <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?logo=sqlalchemy&logoColor=white" />     <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" />  
@@ -13,3 +13,6 @@ Contact: andrey.volkovitskiy@gmail.com
 <img src="https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=white" />      <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white" />   
 
+---
+### Portfolio project
+VisitDoc Sept-Oct 2026 - https://github.com/Andrey-Volkovitskiy/visit-doc
