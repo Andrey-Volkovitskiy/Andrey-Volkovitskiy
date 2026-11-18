@@ -15,4 +15,4 @@ Contact: andrey.volkovitskiy@gmail.com
 
 ---
 ### Portfolio project
-VisitDoc Sept-Oct 2026 - https://github.com/Andrey-Volkovitskiy/visit-doc
+https://github.com/Andrey-Volkovitskiy/visit-doc (Sep-Oct 2026)
