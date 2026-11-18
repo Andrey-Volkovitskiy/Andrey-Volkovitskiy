@@ -16,7 +16,7 @@ assistants for healthcare: LLM agents, RAG, and the evaluation that shows they c
 - **AI evaluation & observability:** golden-set eval harness with a measured noise band · Langfuse · structured JSON logs
 - **Backend:** Python · FastAPI · Django · AsyncIO · Pydantic · Celery · APScheduler
 - **APIs & integration:** REST · OpenAPI · gRPC/protobuf · WebHooks · WebSockets · NDJSON streaming · JWT · OAuth
-- **Data:** PostgreSQL · SQLAlchemy (async), Alembic · Redis · S3
+- **Data:** PostgreSQL · SQLAlchemy (async) · Alembic · Redis · S3
 - **Testing & quality:** TDD · Pytest · mypy · ruff · pre-commit
 - **DevOps:** Docker · Docker Compose · Kubernetes (k3s, Kustomize) · GitHub Actions · GHCR
 - **Frontend:** React + Vite, TypeScript
