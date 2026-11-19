@@ -1,6 +1,6 @@
 ## Hi, I'm Andrey 👋
 
-**AI Engineer** with a background in backend Python development. I build conversational AI
+**AI Engineer** with a 3 years background in backend Python development. I build conversational AI
 assistants for healthcare: LLM agents, RAG, and the evaluation that shows they can be trusted.
 
 📍 Belgrade, Serbia · open to work  
@@ -14,9 +14,9 @@ assistants for healthcare: LLM agents, RAG, and the evaluation that shows they c
 - **LLMs & agents:** Claude API · OpenAI API · LangGraph · tool calling · structured outputs · prompt caching · MCP
 - **RAG:** Qdrant · hybrid search (dense + BM25) · Voyage embeddings and rerank
 - **AI evaluation & observability:** golden-set eval harness · Langfuse tracing
-- **Backend:** Python · FastAPI · AsyncIO · Pydantic · PostgreSQL · SQLAlchemy (async) · gRPC · Django
+- **Backend:** Python · FastAPI · AsyncIO · Pydantic · PostgreSQL · SQLAlchemy (async) · Redis  · gRPC
 - **Delivery:** Docker · Kubernetes (k3s) · GitHub Actions · Pytest · mypy
-- **AI-assisted development:** Claude Code · spec-driven development (spec-kit) · custom skills and hooks
+- **AI-assisted development:** Claude Code · Codex · spec-driven development (spec-kit) · custom skills and hooks
 
 ---
 
