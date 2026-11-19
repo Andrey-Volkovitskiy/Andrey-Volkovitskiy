@@ -40,9 +40,9 @@ https://github.com/user-attachments/assets/d022c3f5-3596-4b5f-910f-ba716d667c42
 
 #### Under the hood
 
-Each of these one-page overviews looks under its hood from a different angle: the AI engineering
-behind the assistant (agent flow, RAG, evaluation), the agentic development lifecycle it was
-built with, and the system architecture that runs it in production.
+Each of these one-page overviews looks under its hood from a different angle: the **AI engineering**
+behind the assistant (agent flow, RAG, evaluation), the **agentic development lifecycle** it was
+built with, and the system **architecture** that runs it in production.
 
 <table>
 <tr><th width="33%"><a href="https://andrey-volkovitskiy.github.io/visit-doc/portfolio-ai-engineering.html">AI Engineering</a></th><th width="33%"><a href="https://andrey-volkovitskiy.github.io/visit-doc/portfolio-adlc.html">ADLC</a></th><th width="33%"><a href="https://andrey-volkovitskiy.github.io/visit-doc/portfolio-architecture.html">Architecture</a></th></tr>
