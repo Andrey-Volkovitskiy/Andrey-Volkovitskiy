@@ -38,7 +38,7 @@ https://github.com/user-attachments/assets/d022c3f5-3596-4b5f-910f-ba716d667c42
 - **Architecture:** FastAPI services talking over gRPC, a booking service whose PostgreSQL constraints rule out double-booking, a React chat UI and staff console, an MCP connector for staff
 - **Deployment:** Docker, then Kubernetes (k3s) on a VPS
 
-#### Under the hood
+
 
 Each of these one-page overviews looks under its hood from a different angle: the **AI engineering**
 behind the assistant (agent flow, RAG, evaluation), the **agentic development lifecycle** it was
