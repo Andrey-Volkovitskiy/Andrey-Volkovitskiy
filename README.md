@@ -30,11 +30,7 @@ A chat assistant that books, reschedules and cancels clinic appointments and ans
 questions with citations. When it can't answer reliably, it hands the conversation to staff
 instead of guessing.
 
-<p>
-<a href="https://visitdoc.app"><img src="img/visitdoc-preview.png" alt="VisitDoc live demo: the patient chat and the staff console" width="48.5%"></a>
-&nbsp;
-<a href="https://github.com/Andrey-Volkovitskiy/visit-doc#readme"><img src="img/repo-preview.png" alt="The visit-doc repository README" width="45%"></a>
-</p>
+https://github.com/user-attachments/assets/d022c3f5-3596-4b5f-910f-ba716d667c42
 
 - **Agent:** a LangGraph flow on Claude that splits mixed-intent messages across parallel specialist nodes and merges their answers
 - **RAG:** hybrid retrieval on Qdrant (Voyage embeddings + BM25, Voyage rerank) with citations, plus an abstain-and-escalate path
@@ -42,7 +38,13 @@ instead of guessing.
 - **Architecture:** FastAPI services talking over gRPC, a booking service whose PostgreSQL constraints rule out double-booking, a React chat UI and staff console, an MCP connector for staff
 - **Deployment:** Docker, then Kubernetes (k3s) on a VPS
 
-One-pagers: [AI engineering](https://andrey-volkovitskiy.github.io/visit-doc/portfolio-ai-engineering.html) ·
-[Development lifecycle](https://andrey-volkovitskiy.github.io/visit-doc/portfolio-adlc.html) ·
-[Architecture](https://andrey-volkovitskiy.github.io/visit-doc/portfolio-architecture.html)
+#### Under the hood
 
+Each of these one-page overviews looks under its hood from a different angle: the AI engineering
+behind the assistant (agent flow, RAG, evaluation), the agentic development lifecycle it was
+built with, and the system architecture that runs it in production.
+
+<table>
+<tr><th width="33%"><a href="https://andrey-volkovitskiy.github.io/visit-doc/portfolio-ai-engineering.html">AI Engineering</a></th><th width="33%"><a href="https://andrey-volkovitskiy.github.io/visit-doc/portfolio-adlc.html">ADLC</a></th><th width="33%"><a href="https://andrey-volkovitskiy.github.io/visit-doc/portfolio-architecture.html">Architecture</a></th></tr>
+<tr><td><a href="https://andrey-volkovitskiy.github.io/visit-doc/portfolio-ai-engineering.html"><img src="img/portfolio-ai-engineering.png" alt="AI Engineering one-pager"></a></td><td><a href="https://andrey-volkovitskiy.github.io/visit-doc/portfolio-adlc.html"><img src="img/portfolio-adlc.png" alt="ADLC one-pager"></a></td><td><a href="https://andrey-volkovitskiy.github.io/visit-doc/portfolio-architecture.html"><img src="img/portfolio-architecture.png" alt="Architecture one-pager"></a></td></tr>
+</table>
