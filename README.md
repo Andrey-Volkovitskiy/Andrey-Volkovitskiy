@@ -53,7 +53,7 @@ built with, and the system **architecture** that runs it in production.
 
 ### 💼 Background
 
-- **2024 – 2026 · AI Engineer** at MIEA Health  
+- **2024 – 2026 · AI Engineer** at [MIEA Health](https://mieahealth.com/)  
   Built a multitenant AI assistant for Singapore private clinics: LangGraph, tool calling, RAG, LLM-as-a-judge
 - **2023 – 2024 · Backend Developer** at Filegaroo  
   Built a FastAPI service and its Pytest suite; cut response time 40% through code and DB tuning
