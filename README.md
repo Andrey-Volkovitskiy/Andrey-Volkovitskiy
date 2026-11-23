@@ -48,3 +48,19 @@ built with, and the system **architecture** that runs it in production.
 <tr><th width="33%"><a href="https://andrey-volkovitskiy.github.io/visit-doc/portfolio-ai-engineering.html">AI Engineering</a></th><th width="33%"><a href="https://andrey-volkovitskiy.github.io/visit-doc/portfolio-adlc.html">ADLC</a></th><th width="33%"><a href="https://andrey-volkovitskiy.github.io/visit-doc/portfolio-architecture.html">Architecture</a></th></tr>
 <tr><td><a href="https://andrey-volkovitskiy.github.io/visit-doc/portfolio-ai-engineering.html"><img src="img/portfolio-ai-engineering.png" alt="AI Engineering one-pager"></a></td><td><a href="https://andrey-volkovitskiy.github.io/visit-doc/portfolio-adlc.html"><img src="img/portfolio-adlc.png" alt="ADLC one-pager"></a></td><td><a href="https://andrey-volkovitskiy.github.io/visit-doc/portfolio-architecture.html"><img src="img/portfolio-architecture.png" alt="Architecture one-pager"></a></td></tr>
 </table>
+
+---
+
+### 💼 Background
+
+- **2024 – 2026 · AI Engineer** at MIEA Health  
+  Built a multitenant AI assistant for Singapore private clinics: LangGraph, tool calling, RAG, LLM-as-a-judge
+- **2023 – 2024 · Backend Developer** at Filegaroo  
+  Built a FastAPI service and its Pytest suite; cut response time 40% through code and DB tuning
+- **2022 – 2023 · Professional Retraining**  
+  Comprehensive backend engineering training at Hexlet and Yandex
+- **2012 – 2022 · Avalanche Safety Educator & Mountain Guide**  
+  Translated and published 4 [books](https://snowsense.ru/bookslide/kniga-bezopasnost-v-zimnih-gorah-staying-alive-2019/), 2 protocols for deciding under uncertainty
+- **2003 – 2011 · Senior Pre-Sales Engineer**  
+  Designed VoIP and call-center solutions for major banks and telcos (T-Bank, VTB, MegaFon)
+- **MSc, Computer Science** – [MEPhI](https://en.wikipedia.org/wiki/Moscow_Engineering_Physics_Institute)
