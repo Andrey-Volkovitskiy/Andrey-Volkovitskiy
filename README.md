@@ -24,7 +24,7 @@ assistants for healthcare: LLM agents, RAG, and the evaluation that shows they c
 
 **VisitDoc - an AI clinic receptionist**
 
-**[Live demo ↗](https://visitdoc.app)** (no sign-up) · **[Repository ↗](https://github.com/Andrey-Volkovitskiy/visit-doc#readme)** · Oct–Nov 2026
+**[Live demo ↗](https://visitdoc.app)** (no sign-up) · **[Repository ↗](https://github.com/Andrey-Volkovitskiy/visit-doc#readme)** · Sep–Nov 2026
 
 A chat assistant that books, reschedules and cancels clinic appointments and answers policy/FAQ
 questions with citations. When it can't answer reliably, it hands the conversation to staff
