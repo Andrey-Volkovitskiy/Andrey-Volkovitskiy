@@ -12,7 +12,7 @@ assistants for healthcare: LLM agents, RAG, and the evaluation that shows they c
 ### 🛠 Stack
 
 - **LLMs & agents:** Claude API · OpenAI API · LangGraph · tool calling · structured outputs · prompt caching · MCP
-- **RAG:** Qdrant · hybrid search (dense + BM25) · Voyage embeddings and rerank
+- **RAG:** Qdrant · hybrid search (semantic + BM25) · Voyage embeddings and rerank
 - **AI evaluation & observability:** golden-set eval harness · Langfuse tracing
 - **Backend:** Python · FastAPI · AsyncIO · Pydantic · PostgreSQL · SQLAlchemy (async) · Redis  · gRPC
 - **Delivery:** Docker · Kubernetes (k3s) · GitHub Actions · Pytest · mypy
