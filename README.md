@@ -5,7 +5,7 @@ assistants for healthcare: LLM agents, RAG, and the evaluation that shows they c
 
 📍 Belgrade, Serbia · open to work  
 📫 [Email](mailto:andrey.volkovitskiy@gmail.com) · [Telegram](https://t.me/andrey_volkovitskiy) · [LinkedIn](https://www.linkedin.com/in/andrey-volkovitskiy)  
-📄 [CV (Resume)](./--CV--.pdf)
+📄 [CV (Resume)](./Andrey_Volkovitskiy_AI_Engineer_CV.pdf)
 
 ---
 
